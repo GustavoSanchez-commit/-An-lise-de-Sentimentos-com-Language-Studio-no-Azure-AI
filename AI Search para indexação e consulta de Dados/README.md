@@ -29,6 +29,6 @@ Vivemos em um mundo onde a quantidade de informações cresce exponencialmente. 
 
 ## 📖 **Referências e Aprendizado**  
 
-Este laboratório foi inspirado nos guias da **Microsoft Learn**, combinando teoria e prática para reforçar o uso de IA aplicada à indexação de dados.  
+Este laboratório foi inspirado nos guias da **Microsoft Learn**, combinando teoria e prática para reforçar o uso de IA aplicada à indexação de dados e com ajuda desse repositorio [https://github.com/AndreNasci/azure-cognitive-search/blob/main/README.md?plain=1].  
 
 💡 **Próximos passos:** A partir dessa experiência, é possível expandir o projeto para cenários reais, como **pesquisas semânticas mais avançadas, chatbots e análise de documentos em escala corporativa**.  
