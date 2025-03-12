@@ -1,6 +1,5 @@
 # **Exploração de Azure Cognitive Search: Indexação Inteligente e Consultas Avançadas**  
 
-![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído_(27/Mar/2024)-green)  
 ![Static Badge](https://img.shields.io/badge/AI_Search-blue)  
 ![Static Badge](https://img.shields.io/badge/Document_Intelligence-blue)  
 ![Static Badge](https://img.shields.io/badge/Indexação_e_Consulta-blue)  
