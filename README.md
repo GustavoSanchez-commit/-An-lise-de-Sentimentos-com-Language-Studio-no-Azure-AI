@@ -1,4 +1,4 @@
-![3](https://github.com/user-attachments/assets/a34b6238-2eb7-4538-a13b-7a9e515900c9)# Análise de sentimentos com Language Studio no Azure AI
+# Análise de sentimentos com Language Studio no Azure AI
 **Sentiment and opinion mining** é uma solução da plataforma **Language Studio, da Azure**, que permite **detectar sentimentos positivos, negativos e neutros** a partir de sentenças.
 
 ![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
@@ -32,7 +32,6 @@
 - 2.Acessar os serviçoes de IA o primeiro que apareçe na foto, "Azure AI Services"
 - ![image](https://github.com/user-attachments/assets/d94c52d9-879f-4ade-8136-0489ef6078d4)
 - ![image](https://github.com/user-attachments/assets/6ab5ae4f-96a9-4263-86a9-8273f318013a)
-- ![1](https://github.com/user-attachments/assets/a8225181-4dbd-4ee8-a6c6-b095aeb76415)
 - ![1](https://github.com/user-attachments/assets/24d8d830-6a90-40bf-82d4-8e778566a0cf)
 - ![2](https://github.com/user-attachments/assets/10a9c40c-627f-43d4-b82e-92d631935cfb)
 - ![3](https://github.com/user-attachments/assets/1c9afaed-0b51-45fe-b189-3cd24bdab537)
