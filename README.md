@@ -25,4 +25,9 @@
 ## ❌ Negativas  
 - **"O atendimento demorou muito** e não resolveram meu problema."  
 - **"A qualidade do produto é péssima,** não recomendo!"  
-- **"Tive uma experiência frustrante,** esperava algo muito melhor."  
+- **"Tive uma experiência frustrante,** esperava algo muito melhor."
+
+#Passo a passoa
+1.Criar/Acessar uma conta microsoft: https://portal.azure.com/
+2.![image](https://github.com/user-attachments/assets/d94c52d9-879f-4ade-8136-0489ef6078d4)
+
