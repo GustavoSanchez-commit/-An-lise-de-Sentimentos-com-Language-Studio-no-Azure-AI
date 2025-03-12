@@ -27,8 +27,10 @@
 - **"A qualidade do produto é péssima,** não recomendo!"  
 - **"Tive uma experiência frustrante,** esperava algo muito melhor."
 
-#Passo a passoa
-1.Criar/Acessar uma conta microsoft: https://portal.azure.com/
-2.Acessar os serviçoes de IA o primeiro que apareçe na foto
+  # Passo a passoa
+- 1.Criar/Acessar uma conta microsoft: https://portal.azure.com/
+- 2.Acessar os serviçoes de IA o primeiro que apareçe na foto, "Azure AI Services"
 ![image](https://github.com/user-attachments/assets/d94c52d9-879f-4ade-8136-0489ef6078d4)
+![image](https://github.com/user-attachments/assets/6ab5ae4f-96a9-4263-86a9-8273f318013a)
+
 
