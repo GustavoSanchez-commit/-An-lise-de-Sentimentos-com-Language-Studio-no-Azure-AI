@@ -29,5 +29,6 @@
 
 #Passo a passoa
 1.Criar/Acessar uma conta microsoft: https://portal.azure.com/
-2.![image](https://github.com/user-attachments/assets/d94c52d9-879f-4ade-8136-0489ef6078d4)
+2.Acessar os serviçoes de IA o primeiro que apareçe na foto
+![image](https://github.com/user-attachments/assets/d94c52d9-879f-4ade-8136-0489ef6078d4)
 
