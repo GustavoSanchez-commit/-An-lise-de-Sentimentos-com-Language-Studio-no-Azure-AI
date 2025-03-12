@@ -1,8 +1,8 @@
 # 10 frases variadas para análise de sentimentos no Azure AI Language Studio:
 
 ## Positivas:
-"Adorei o serviço! Foi rápido e eficiente, superou minhas expectativas."
-"A experiência foi incrível, me senti valorizado como cliente."
+-"Adorei o serviço! Foi rápido e eficiente, superou minhas expectativas."
+-"A experiência foi incrível, me senti valorizado como cliente."
 "O produto é de excelente qualidade, recomendo para todos!"
 "O suporte foi muito prestativo e resolveu minha dúvida rapidamente."
 "Fiquei muito feliz com a entrega antes do prazo, ótimo atendimento!"
